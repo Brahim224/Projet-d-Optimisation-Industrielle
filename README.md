@@ -77,6 +77,12 @@ Ces dysfonctionnements impactent directement le **TRS (Taux de Rendement Synthé
 
 ---
 
+## Resultat
+<img width="605" height="342" alt="poste1" src="https://github.com/user-attachments/assets/31e1c55f-bc7f-41e9-a0d9-c814965cc763" />
+<img width="606" height="341" alt="poste2" src="https://github.com/user-attachments/assets/ed3ae8dc-30d2-447b-8f79-78823ded2f86" />
+<img width="605" height="341" alt="poste3" src="https://github.com/user-attachments/assets/a5e88316-68d5-4f45-b3ad-3c3ef7c6578c" />
+<img width="605" height="340" alt="p4" src="https://github.com/user-attachments/assets/a9281e70-1a92-42f2-9bf8-bb88de636501" />
+
 ## 📝 Licence
 
 Ce projet est réalisé à des fins académiques. Toute reproduction ou utilisation partielle doit mentionner la source :  
