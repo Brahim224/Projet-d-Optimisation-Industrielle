@@ -1,0 +1,28 @@
+# Fichiers Excel temporaires / caches
+~$*.xlsx
+~$*.xls
+Thumbs.db
+.DS_Store
+
+# Fichiers Power BI sensibles ou volumineux
+*.pbix
+*.pbit
+
+# Données brutes potentiellement confidentielles
+/data/
+/raw_data/
+/datasets/
+
+# Fichiers PDF générés (optionnel – si tu veux partager le rapport, ne PAS ignorer)
+# rapport.update.pdf
+
+# Fichiers de configuration locaux
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Backups / copies automatiques
+*Backup*
+*backup*
+*_old.*
